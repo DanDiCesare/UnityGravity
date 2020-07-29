@@ -2,10 +2,10 @@
 Exploring Unity3D physics
 
 Controls:
-W A S D     - Move
+W A S D     - Move  
 
-Q           - Flip Left
-E           - Flip Right
+Q           - Flip Left  
+E           - Flip Right  
 
-Right Click - Pull objects
+Right Click - Pull objects  
 Left Click  - Push objects
